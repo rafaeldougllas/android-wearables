@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:layout_gravity="center"
+        android:id="@+id/abilities_image"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        tools:src="@drawable/thumb_about" />
+
+    <TextView
+
+        android:id="@+id/abilities_text_hero_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        tools:text='Spider Man' />
+
+
+    <TextView
+        android:padding="16dp"
+        android:id="@+id/abilities_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:ems="10"
+        tools:text="Peter can cling to most surfaces, has superhuman strength (able to lift 10 tons optimally) and is roughly 15 times more agile than a regular human. "/>
+
+
+</LinearLayout>

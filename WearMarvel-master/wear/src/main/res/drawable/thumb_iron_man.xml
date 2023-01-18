@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/image_layer"
+        android:width="80dp"
+        android:height="120dp"
+        android:top="25dp"
+        android:right="8dp"
+        android:bottom="25dp"
+        android:left="8dp"
+        android:drawable="@drawable/iron_man"/>
+
+    <item android:drawable="@drawable/ic_vignette_black_24dp"/>
+
+</layer-list>

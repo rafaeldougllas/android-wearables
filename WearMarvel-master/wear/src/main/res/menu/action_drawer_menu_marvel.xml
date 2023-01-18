@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_hero_heroname"
+        android:icon="@drawable/ic_info_outline_black_24dp"
+        android:title="Hero Name"/>
+    <item android:id="@+id/menu_hero_realname"
+        android:icon="@drawable/ic_info_outline_black_24dp"
+        android:title="Real Name" />
+    <item android:id="@+id/menu_hero_powers"
+        android:icon="@drawable/ic_info_outline_black_24dp"
+        android:title="Powers" />
+    <item android:id="@+id/menu_hero_abilities"
+        android:icon="@drawable/ic_info_outline_black_24dp"
+        android:title="Abilities" />
+</menu>
