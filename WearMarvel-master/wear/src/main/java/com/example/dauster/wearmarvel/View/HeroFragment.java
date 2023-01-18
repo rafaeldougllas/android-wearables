@@ -1,4 +1,4 @@
-package com.example.dauster.wearmarvel.View;
+package com.example.rafael.wearmarvel.View;
 
 
 import android.app.Fragment;
@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 
-import com.example.dauster.wearmarvel.R;
+import com.example.rafael.wearmarvel.R;
 
 
 /**

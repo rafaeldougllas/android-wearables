@@ -1,4 +1,4 @@
-package com.example.dauster.wearmarvel.Adapters;
+package com.example.rafael.wearmarvel.Adapters;
 
 import android.content.Context;
 import android.support.wear.widget.WearableRecyclerView;
@@ -6,11 +6,11 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.dauster.wearmarvel.Model.Hero;
-import com.example.dauster.wearmarvel.R;
+import com.example.rafael.wearmarvel.Model.Hero;
+import com.example.rafael.wearmarvel.R;
 
 /**
- * Created by dauster on 14/10/17.
+ * Created by rafael on 14/10/17.
  */
 
 public class WearableRecyclerViewPowersAdapter extends WearableRecyclerView.Adapter<PowersViewHolder> {

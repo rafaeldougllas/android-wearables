@@ -1,15 +1,15 @@
-package com.example.dauster.wearmarvel.Adapters;
+package com.example.rafael.wearmarvel.Adapters;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;
 import android.support.wear.widget.drawer.WearableNavigationDrawerView;
 
-import com.example.dauster.wearmarvel.Model.Hero;
+import com.example.rafael.wearmarvel.Model.Hero;
 
 import java.util.ArrayList;
 
 /**
- * Created by dauster on 13/10/17.
+ * Created by rafael on 13/10/17.
  */
 
 public class NavigationAdapter extends WearableNavigationDrawerView.WearableNavigationDrawerAdapter {

@@ -1,4 +1,4 @@
-package com.example.dauster.wearmarvel;
+package com.example.rafael.wearmarvel;
 
 import android.app.Activity;
 import android.app.FragmentManager;
@@ -9,10 +9,10 @@ import android.support.wear.widget.drawer.WearableNavigationDrawerView;
 import android.view.MenuItem;
 import android.widget.Toast;
 
-import com.example.dauster.wearmarvel.Adapters.NavigationAdapter;
-import com.example.dauster.wearmarvel.Controller.ApiHero;
-import com.example.dauster.wearmarvel.Model.Hero;
-import com.example.dauster.wearmarvel.View.HeroFragment;
+import com.example.rafael.wearmarvel.Adapters.NavigationAdapter;
+import com.example.rafael.wearmarvel.Controller.ApiHero;
+import com.example.rafael.wearmarvel.Model.Hero;
+import com.example.rafael.wearmarvel.View.HeroFragment;
 
 import java.util.ArrayList;
 

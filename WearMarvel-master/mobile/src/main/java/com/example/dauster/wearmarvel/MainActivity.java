@@ -1,4 +1,4 @@
-package com.example.dauster.wearmarvel;
+package com.example.rafael.wearmarvel;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-package com.example.dauster.wearmarvel;
+package com.example.rafael.wearmarvel;
 
 import org.junit.Test;
 

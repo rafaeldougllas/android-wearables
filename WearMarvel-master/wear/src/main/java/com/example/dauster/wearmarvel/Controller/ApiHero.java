@@ -1,14 +1,14 @@
-package com.example.dauster.wearmarvel.Controller;
+package com.example.rafael.wearmarvel.Controller;
 
 import android.content.Context;
 
-import com.example.dauster.wearmarvel.Model.Hero;
-import com.example.dauster.wearmarvel.R;
+import com.example.rafael.wearmarvel.Model.Hero;
+import com.example.rafael.wearmarvel.R;
 
 import java.util.ArrayList;
 
 /**
- * Created by dauster on 13/10/17.
+ * Created by rafael on 13/10/17.
  */
 
 public class ApiHero {

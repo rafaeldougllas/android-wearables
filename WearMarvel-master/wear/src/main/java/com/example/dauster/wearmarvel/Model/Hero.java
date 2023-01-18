@@ -1,10 +1,10 @@
-package com.example.dauster.wearmarvel.Model;
+package com.example.rafael.wearmarvel.Model;
 
 import android.os.Parcel;
 import android.os.Parcelable;
 
 /**
- * Created by dauster on 13/10/17.
+ * Created by rafael on 13/10/17.
  */
 
 public class Hero implements Parcelable {

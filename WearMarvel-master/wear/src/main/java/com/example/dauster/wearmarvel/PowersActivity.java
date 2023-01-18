@@ -1,4 +1,4 @@
-package com.example.dauster.wearmarvel;
+package com.example.rafael.wearmarvel;
 
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
@@ -7,8 +7,8 @@ import android.support.wear.widget.drawer.WearableActionDrawerView;
 import android.support.wearable.activity.WearableActivity;
 import android.view.MenuItem;
 
-import com.example.dauster.wearmarvel.Adapters.WearableRecyclerViewPowersAdapter;
-import com.example.dauster.wearmarvel.Model.Hero;
+import com.example.rafael.wearmarvel.Adapters.WearableRecyclerViewPowersAdapter;
+import com.example.rafael.wearmarvel.Model.Hero;
 
 public class PowersActivity extends WearableActivity implements MenuItem.OnMenuItemClickListener {
 
